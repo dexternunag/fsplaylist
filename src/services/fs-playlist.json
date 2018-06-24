@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "fs-playlist",
+  "private_key_id": "2667d61204594928fe1cde9e0f95c2e0577a54a1",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCaIAHmXW8lrmaG\n35SfteaueyXE4QpM9anpgqrZ1qqrDuOUTJRo4WzztRPGXTl4ntdnGGJOaFVGF6KI\nmV5jPEZe2ooZYIbNqit2PI+UjLvvm38Z8N4uyNRWAnsPYcFnKlkf7yvkgUnkw85O\nuEIqn1IhJEuinGy0BigQDjdtTor8KvpFuLWXJSRCKX5tpQhO2VSFyZF0MeChyZtu\nr0YZQ/zVQTwuFgJX/yNGe9pTG864G8OyKlBg68rx9cc97eJ4l/t0I8jh6meenl1L\ni/DBD5a2zQRx/WXDe/zhONCHYf1xSH58z2nx9UooEoLwT0PIMgn4+XHWfs65FzIG\nvF8+NukHAgMBAAECggEAGCb35T+zETaZPn1+7uA0fBc0Pfv9/z1oGP2vBGANcqzs\noOq3PxBEYJR5utYVEX/ixXcewKa85jUB9WIDVo21gVvB1GQ5+7S1BtxKq766HLxD\nWK9UQgSasbfFzQ1Gn4IVYVm7iR1xlPXSOKfLRp6c4jCr4Zmdt0BXutxfdzOduBJN\n0D5bDRG8+l/lNBMD71ewTSjV6XTZxaU1IL7HU05jCA9l8tjGFkCIUcyPQHkTvP+x\nNPQey7aR8m3FAq4EJU9lG3rGrRAm9HNhN/+yLk3GOyHcgFBvqnOdY1sV00gagbVa\nm7VkwHH0OaO7sWXUmjDiyzYw749fN4fPRw2V5aukUQKBgQDH1uVk45sADyRT3NK3\nBBM2T0RMwvSLbCoq8cvxCSz7x8AO7A8Iu52rA8z36E//oG8dZaSHB6ZKSgM5YMvY\nl4d3MohvC1rTAwJgyVi5R6ZnbI8ncXKjj8mxpKeCMkz8GfXBNocn5xOm/XfGEIEU\nfpZG3DEkYy4UTwbBUdkpBr7ZrQKBgQDFcERaCdEuna+T26WZLCxHEnKlZtanKDAL\n4j5QX90D+6Vrnn0Bgxbfv76pdU6e1PvpiSlp1SyiSFWtgoXTWxGNm2WN/UbX2IXC\nfnzyOiW4EQ6Pn9oTpCKRp/DyPjNr4jhCTugtjnpsSZCVj6bzHQB+D/IG0EkIA7BA\nefBMuCdMAwKBgDRt0t03QbEwR82gv7+4V/oFrdudwl7Zz+5YZbMlPyIHdAH2OLOH\n1YPKiXn4/xQH2V8TDalHfn87D8F7/b8jciz5mwXXKsr1nSgbayWhAK1ds+kbQIJc\n9QOgOTpVTBFQFkPMtITpgSRsl4HlTpg75d1NY68yPiKh4RnTCXBUDro5AoGBAK1S\njO5tx9CgZM3r+Eeq24PY0gQZbz52rRcBmap9PUyN0P3Ut/Bn3+C0NvAUJtyQJEUz\nP8PEe9ZKocwb1NdiDtq9HD21pkc9sM64s38BRLN9Zcb3kT3EzQQI5iACMqn2gWTU\nWEYF2brOKbrhzLGHODNyVAlfN31tn4A6i5UN5JF5AoGAPfsKTrLWR9mgszPchaPM\nKTRW/Sfhis2JFqCH5swhNJYxdJTYTQQO1LHbqPqUT8lLqIPFxsjCczklnm/ev3bs\nkIDdcm6gvh4QcKbZNmW3Cp31tc7eQjlUZjn3943CngmD99vhppYBFwgQRvOr+44V\neUlntM0vuoM4KGLiu5gGIM8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "fs-playlist@fs-playlist.iam.gserviceaccount.com",
+  "client_id": "117923637054244512531",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://accounts.google.com/o/oauth2/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/fs-playlist%40fs-playlist.iam.gserviceaccount.com"
+}
